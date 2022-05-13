@@ -20,7 +20,7 @@ Este laboratório tem o objetivo de containerizar uma aplicação ASP NET, essa 
 ## Resultado da aplicação containerizada
 
 <div align="center">
-  <img src="" width="400px" />
+  <img src="https://user-images.githubusercontent.com/68225621/168362060-8895bab7-0ad2-4a5a-a63c-a0829f535895.png" width="700px" />
 </div>
 
 ## Autor
